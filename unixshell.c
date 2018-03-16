@@ -1,6 +1,3 @@
-/*
-Shell create for a practical work in germany erasmus
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
