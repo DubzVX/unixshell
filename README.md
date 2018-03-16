@@ -1,6 +1,6 @@
 # Unixshell in C
 
-Shell create for a practical work in germany erasmus
+Shell create by me, to learn programming system in C 
 
 ### How to use it : 
 ```sh
