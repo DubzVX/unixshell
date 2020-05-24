@@ -1,6 +1,6 @@
 # Unixshell in C
 
-Shell create by me, to learn programming system in C 
+Shell created by me, to learn Linux programming system in C 
 
 ### How to use it : 
 ```sh
